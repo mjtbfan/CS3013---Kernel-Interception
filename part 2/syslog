@@ -1,0 +1,309 @@
+Feb  4 14:02:44 cs3013 rsyslogd: [origin software="rsyslogd" swVersion="8.16.0" x-pid="642" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Feb  4 14:02:51 cs3013 kernel: [  312.252534] 'Hello, world!' -- syscall2
+Feb  4 14:04:07 cs3013 kernel: [  387.707400] 'Hello, world!' -- syscall2
+Feb  4 14:08:38 cs3013 kernel: [  658.653902] 'Hello, world!' -- syscall2
+Feb  4 14:09:34 cs3013 kernel: [  714.373301] 'Hello, world!' -- syscall2
+Feb  4 14:09:51 cs3013 AptDaemon: INFO: Quitting due to inactivity
+Feb  4 14:09:51 cs3013 org.debian.apt[653]: 14:09:51 AptDaemon [INFO]: Quitting due to inactivity
+Feb  4 14:09:51 cs3013 org.debian.apt[653]: 14:09:51 AptDaemon [INFO]: Quitting was requested
+Feb  4 14:09:51 cs3013 AptDaemon: INFO: Quitting was requested
+Feb  4 14:10:40 cs3013 kernel: [  780.338772] ancestryModule: module verification failed: signature and/or required key missing - tainting kernel
+Feb  4 14:10:40 cs3013 kernel: [  780.396872] Interceptor: Found syscall table at address: 0xC17BB180
+Feb  4 14:11:07 cs3013 kernel: [  780.396874] Loaded interceptor!<6>[  807.775889] Targeted Task PID: 3648
+Feb  4 14:11:07 cs3013 kernel: [  807.775891] Targeted Sibling 1 PID: 3647
+Feb  4 14:11:07 cs3013 kernel: [  807.775891] Targeted Sibling 2 PID: 3649
+Feb  4 14:11:07 cs3013 kernel: [  807.775892] Targeted Ancestor 1 PID: 3646
+Feb  4 14:11:07 cs3013 kernel: [  807.775892] Targeted Ancestor 2 PID: 2040
+Feb  4 14:11:07 cs3013 kernel: [  807.775893] Targeted Ancestor 3 PID: 2034
+Feb  4 14:11:07 cs3013 kernel: [  807.775894] Targeted Ancestor 4 PID: 1091
+Feb  4 14:11:07 cs3013 kernel: [  807.775894] Targeted Ancestor 5 PID: 1051
+Feb  4 14:11:07 cs3013 kernel: [  807.775895] Targeted Ancestor 6 PID: 885
+Feb  4 14:11:07 cs3013 kernel: [  807.775896] Targeted Ancestor 7 PID: 1
+Feb  4 14:11:36 cs3013 kernel: [  836.527772] Targeted Task PID: 3660
+Feb  4 14:11:36 cs3013 kernel: [  836.527774] Targeted Sibling 1 PID: 3661
+Feb  4 14:11:36 cs3013 kernel: [  836.527775] Targeted Sibling 2 PID: 3662
+Feb  4 14:11:36 cs3013 kernel: [  836.527775] Targeted Ancestor 1 PID: 3659
+Feb  4 14:11:36 cs3013 kernel: [  836.527776] Targeted Ancestor 2 PID: 2040
+Feb  4 14:11:36 cs3013 kernel: [  836.527777] Targeted Ancestor 3 PID: 2034
+Feb  4 14:11:36 cs3013 kernel: [  836.527777] Targeted Ancestor 4 PID: 1091
+Feb  4 14:11:36 cs3013 kernel: [  836.527778] Targeted Ancestor 5 PID: 1051
+Feb  4 14:11:36 cs3013 kernel: [  836.527778] Targeted Ancestor 6 PID: 885
+Feb  4 14:11:36 cs3013 kernel: [  836.527779] Targeted Ancestor 7 PID: 1
+Feb  4 14:12:16 cs3013 kernel: [  877.050733] Targeted Task PID: 3676
+Feb  4 14:12:16 cs3013 kernel: [  877.050735] Targeted Sibling 1 PID: 3677
+Feb  4 14:12:16 cs3013 kernel: [  877.050736] Targeted Sibling 2 PID: 3678
+Feb  4 14:12:16 cs3013 kernel: [  877.050737] Targeted Ancestor 1 PID: 3675
+Feb  4 14:12:16 cs3013 kernel: [  877.050737] Targeted Ancestor 2 PID: 2040
+Feb  4 14:12:16 cs3013 kernel: [  877.050738] Targeted Ancestor 3 PID: 2034
+Feb  4 14:12:16 cs3013 kernel: [  877.050738] Targeted Ancestor 4 PID: 1091
+Feb  4 14:12:16 cs3013 kernel: [  877.050739] Targeted Ancestor 5 PID: 1051
+Feb  4 14:12:16 cs3013 kernel: [  877.050740] Targeted Ancestor 6 PID: 885
+Feb  4 14:12:16 cs3013 kernel: [  877.050740] Targeted Ancestor 7 PID: 1
+Feb  4 14:12:56 cs3013 kernel: [  916.337624] Targeted Task PID: 3692
+Feb  4 14:12:56 cs3013 kernel: [  916.337625] Targeted Sibling 1 PID: 3693
+Feb  4 14:12:56 cs3013 kernel: [  916.337626] Targeted Sibling 2 PID: 3694
+Feb  4 14:12:56 cs3013 kernel: [  916.337627] Targeted Ancestor 1 PID: 3691
+Feb  4 14:12:56 cs3013 kernel: [  916.337627] Targeted Ancestor 2 PID: 2040
+Feb  4 14:12:56 cs3013 kernel: [  916.337628] Targeted Ancestor 3 PID: 2034
+Feb  4 14:12:56 cs3013 kernel: [  916.337628] Targeted Ancestor 4 PID: 1091
+Feb  4 14:12:56 cs3013 kernel: [  916.337629] Targeted Ancestor 5 PID: 1051
+Feb  4 14:12:56 cs3013 kernel: [  916.337629] Targeted Ancestor 6 PID: 885
+Feb  4 14:12:56 cs3013 kernel: [  916.337630] Targeted Ancestor 7 PID: 1
+Feb  4 14:12:56 cs3013 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb  4 14:12:56 cs3013 systemd-tmpfiles[3696]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb  4 14:12:56 cs3013 systemd[1]: Started Cleanup of Temporary Directories.
+Feb  4 14:13:30 cs3013 kernel: [  950.843665] BUG: unable to handle kernel NULL pointer dereference at 00000308
+Feb  4 14:13:30 cs3013 kernel: [  950.843686] IP: [<fef5b071>] new_sys_cs3013_syscall2+0x71/0x1a3 [ancestryModule]
+Feb  4 14:13:30 cs3013 kernel: [  950.843704] *pdpt = 000000002b72e001 *pde = 0000000000000000 
+Feb  4 14:13:30 cs3013 kernel: [  950.843717] Oops: 0000 [#1] SMP 
+Feb  4 14:13:30 cs3013 kernel: [  950.843726] Modules linked in: ancestryModule(OE) vboxsf snd_intel8x0 snd_ac97_codec crc32_pclmul ac97_bus snd_pcm snd_seq_midi aesni_intel snd_seq_midi_event aes_i586 snd_rawmidi xts vboxvideo ttm lrw drm_kms_helper gf128mul ablk_helper snd_seq cryptd drm joydev snd_seq_device vboxguest snd_timer fb_sys_fops snd input_leds syscopyarea serio_raw sysfillrect i2c_piix4 sysimgblt soundcore 8250_fintek mac_hid parport_pc ppdev lp parport autofs4 hid_generic usbhid hid ahci psmouse libahci fjes video e1000 pata_acpi
+Feb  4 14:13:30 cs3013 kernel: [  950.843852] CPU: 0 PID: 3708 Comm: procAncestrytes Tainted: G           OE   4.4.35cshue #1
+Feb  4 14:13:30 cs3013 kernel: [  950.843869] Hardware name: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+Feb  4 14:13:30 cs3013 kernel: [  950.843900] task: f5010000 ti: e94fa000 task.ti: e94fa000
+Feb  4 14:13:30 cs3013 kernel: [  950.843916] EIP: 0060:[<fef5b071>] EFLAGS: 00010246 CPU: 0
+Feb  4 14:13:30 cs3013 kernel: [  950.843930] EIP is at new_sys_cs3013_syscall2+0x71/0x1a3 [ancestryModule]
+Feb  4 14:13:30 cs3013 kernel: [  950.843943] EAX: 00000000 EBX: 0963c008 ECX: 00000000 EDX: 00000000
+Feb  4 14:13:30 cs3013 kernel: [  950.843956] ESI: 00000000 EDI: 00000000 EBP: e94fbf78 ESP: e94fbc08
+Feb  4 14:13:30 cs3013 kernel: [  950.843968]  DS: 007b ES: 007b FS: 00d8 GS: 00e0 SS: 0068
+Feb  4 14:13:30 cs3013 kernel: [  950.843979] CR0: 8005003b CR2: 00000308 CR3: 2b7b41e0 CR4: 000406f0
+Feb  4 14:13:30 cs3013 kernel: [  950.843994] DR0: 00000000 DR1: 00000000 DR2: 00000000 DR3: 00000000
+Feb  4 14:13:30 cs3013 kernel: [  950.844007] DR6: fffe0ff0 DR7: 00000400
+Feb  4 14:13:30 cs3013 kernel: [  950.844015] Stack:
+Feb  4 14:13:30 cs3013 kernel: [  950.844019]  c1b62fc0 00000000 c1b6280c c1b62fc0 00000000 000000cc 00000000 00000000
+Feb  4 14:13:30 cs3013 kernel: [  950.844041]  00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+Feb  4 14:13:30 cs3013 kernel: [  950.844061]  00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+Feb  4 14:13:30 cs3013 kernel: [  950.844082] Call Trace:
+Feb  4 14:13:30 cs3013 kernel: [  950.844092]  [<c100393d>] do_fast_syscall_32+0x8d/0x150
+Feb  4 14:13:30 cs3013 kernel: [  950.844104]  [<c17b795c>] sysenter_past_esp+0x3d/0x61
+Feb  4 14:13:30 cs3013 kernel: [  950.844114] Code: 00 0f 85 22 01 00 00 81 c4 64 03 00 00 5b 5e 5f 5d c3 0f b7 06 31 f6 e8 3e f5 12 c2 31 d2 e8 77 f5 12 c2 89 c7 89 85 a0 fc ff ff <8b> 80 08 03 00 00 c7 04 24 44 c0 f5 fe 89 44 24 04 89 85 a4 fc
+Feb  4 14:13:30 cs3013 kernel: [  950.844192] EIP: [<fef5b071>] new_sys_cs3013_syscall2+0x71/0x1a3 [ancestryModule] SS:ESP 0068:e94fbc08
+Feb  4 14:13:30 cs3013 kernel: [  950.844212] CR2: 0000000000000308
+Feb  4 14:13:30 cs3013 kernel: [  950.844222] fbcon_switch: detected unhandled fb_set_par error, error code -16
+Feb  4 14:13:30 cs3013 kernel: [  950.844834] fbcon_switch: detected unhandled fb_set_par error, error code -16
+Feb  4 14:13:30 cs3013 kernel: [  950.845484] ---[ end trace efee1b4843fede64 ]---
+Feb  4 14:13:49 cs3013 kernel: [  969.705569] Targeted Task PID: 3723
+Feb  4 14:13:49 cs3013 kernel: [  969.705571] Targeted Sibling 1 PID: 3724
+Feb  4 14:13:49 cs3013 kernel: [  969.705572] Targeted Sibling 2 PID: 3725
+Feb  4 14:13:49 cs3013 kernel: [  969.705573] Targeted Ancestor 1 PID: 3722
+Feb  4 14:13:49 cs3013 kernel: [  969.705573] Targeted Ancestor 2 PID: 2040
+Feb  4 14:13:49 cs3013 kernel: [  969.705574] Targeted Ancestor 3 PID: 2034
+Feb  4 14:13:49 cs3013 kernel: [  969.705574] Targeted Ancestor 4 PID: 1091
+Feb  4 14:13:49 cs3013 kernel: [  969.705575] Targeted Ancestor 5 PID: 1051
+Feb  4 14:13:49 cs3013 kernel: [  969.705576] Targeted Ancestor 6 PID: 885
+Feb  4 14:13:49 cs3013 kernel: [  969.705576] Targeted Ancestor 7 PID: 1
+Feb  4 14:15:03 cs3013 kernel: [ 1043.739366] BUG: unable to handle kernel NULL pointer dereference at 00000308
+Feb  4 14:15:03 cs3013 kernel: [ 1043.739798] IP: [<fef5b071>] new_sys_cs3013_syscall2+0x71/0x1a3 [ancestryModule]
+Feb  4 14:15:03 cs3013 kernel: [ 1043.740204] *pdpt = 0000000027b6a001 *pde = 0000000000000000 
+Feb  4 14:15:03 cs3013 kernel: [ 1043.740601] Oops: 0000 [#2] SMP 
+Feb  4 14:15:03 cs3013 kernel: [ 1043.741025] Modules linked in: ancestryModule(OE) vboxsf snd_intel8x0 snd_ac97_codec crc32_pclmul ac97_bus snd_pcm snd_seq_midi aesni_intel snd_seq_midi_event aes_i586 snd_rawmidi xts vboxvideo ttm lrw drm_kms_helper gf128mul ablk_helper snd_seq cryptd drm joydev snd_seq_device vboxguest snd_timer fb_sys_fops snd input_leds syscopyarea serio_raw sysfillrect i2c_piix4 sysimgblt soundcore 8250_fintek mac_hid parport_pc ppdev lp parport autofs4 hid_generic usbhid hid ahci psmouse libahci fjes video e1000 pata_acpi
+Feb  4 14:15:03 cs3013 kernel: [ 1043.743499] CPU: 0 PID: 3740 Comm: procAncestry Tainted: G      D    OE   4.4.35cshue #1
+Feb  4 14:15:03 cs3013 kernel: [ 1043.743909] Hardware name: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+Feb  4 14:15:03 cs3013 kernel: [ 1043.744310] task: f3ffbc00 ti: f3c5a000 task.ti: f3c5a000
+Feb  4 14:15:03 cs3013 kernel: [ 1043.744714] EIP: 0060:[<fef5b071>] EFLAGS: 00010246 CPU: 0
+Feb  4 14:15:03 cs3013 kernel: [ 1043.745130] EIP is at new_sys_cs3013_syscall2+0x71/0x1a3 [ancestryModule]
+Feb  4 14:15:03 cs3013 kernel: [ 1043.745539] EAX: 00000000 EBX: 0810f008 ECX: 00000000 EDX: 00000000
+Feb  4 14:15:03 cs3013 kernel: [ 1043.745941] ESI: 00000000 EDI: 00000000 EBP: f3c5bf78 ESP: f3c5bc08
+Feb  4 14:15:03 cs3013 kernel: [ 1043.746338]  DS: 007b ES: 007b FS: 00d8 GS: 00e0 SS: 0068
+Feb  4 14:15:03 cs3013 kernel: [ 1043.746743] CR0: 8005003b CR2: 00000308 CR3: 2b53cde0 CR4: 000406f0
+Feb  4 14:15:03 cs3013 kernel: [ 1043.747144] DR0: 00000000 DR1: 00000000 DR2: 00000000 DR3: 00000000
+Feb  4 14:15:03 cs3013 kernel: [ 1043.747550] DR6: fffe0ff0 DR7: 00000400
+Feb  4 14:15:03 cs3013 kernel: [ 1043.747968] Stack:
+Feb  4 14:15:03 cs3013 kernel: [ 1043.748371]  c1b62fc0 00000001 c1b623cc c1b62fc0 00000000 000000cc 00000000 00000000
+Feb  4 14:15:03 cs3013 kernel: [ 1043.748814]  00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+Feb  4 14:15:03 cs3013 kernel: [ 1043.749222]  00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+Feb  4 14:15:03 cs3013 kernel: [ 1043.749639] Call Trace:
+Feb  4 14:15:03 cs3013 kernel: [ 1043.750043]  [<c100393d>] do_fast_syscall_32+0x8d/0x150
+Feb  4 14:15:03 cs3013 kernel: [ 1043.750456]  [<c17b795c>] sysenter_past_esp+0x3d/0x61
+Feb  4 14:15:03 cs3013 kernel: [ 1043.750856] Code: 00 0f 85 22 01 00 00 81 c4 64 03 00 00 5b 5e 5f 5d c3 0f b7 06 31 f6 e8 3e f5 12 c2 31 d2 e8 77 f5 12 c2 89 c7 89 85 a0 fc ff ff <8b> 80 08 03 00 00 c7 04 24 44 c0 f5 fe 89 44 24 04 89 85 a4 fc
+Feb  4 14:15:03 cs3013 kernel: [ 1043.752108] EIP: [<fef5b071>] new_sys_cs3013_syscall2+0x71/0x1a3 [ancestryModule] SS:ESP 0068:f3c5bc08
+Feb  4 14:15:03 cs3013 kernel: [ 1043.752915] CR2: 0000000000000308
+Feb  4 14:15:03 cs3013 kernel: [ 1043.753337] ---[ end trace efee1b4843fede65 ]---
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334405] Targeted Task PID: 1
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334408] Targeted Child 1 PID: 215
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334409] Targeted Child 2 PID: 247
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334409] Targeted Child 3 PID: 642
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334410] Targeted Child 4 PID: 644
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334411] Targeted Child 5 PID: 645
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334411] Targeted Child 6 PID: 653
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334412] Targeted Child 7 PID: 697
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334412] Targeted Child 8 PID: 699
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334413] Targeted Child 9 PID: 700
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334414] Targeted Child 10 PID: 735
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334414] Targeted Child 11 PID: 740
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334415] Targeted Child 12 PID: 745
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334415] Targeted Child 13 PID: 758
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334416] Targeted Child 14 PID: 772
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334417] Targeted Child 15 PID: 867
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334417] Targeted Child 16 PID: 885
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334418] Targeted Child 17 PID: 923
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334418] Targeted Child 18 PID: 1072
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334419] Targeted Child 19 PID: 1139
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334419] Targeted Child 20 PID: 1149
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334420] Targeted Child 21 PID: 1161
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334421] Targeted Child 22 PID: 1168
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334421] Targeted Child 23 PID: 1587
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334422] Targeted Child 24 PID: 1641
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334422] Targeted Child 25 PID: 1719
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334423] Targeted Child 26 PID: 1751
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334424] Targeted Child 27 PID: 1877
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334424] Targeted Child 28 PID: 1922
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334425] Targeted Child 29 PID: 2801
+Feb  4 14:15:07 cs3013 kernel: [ 1047.334425] Targeted Sibling 1 PID: 2
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018369] Targeted Task PID: 5
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018371] Targeted Sibling 1 PID: 3
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018372] Targeted Sibling 2 PID: 6
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018373] Targeted Sibling 3 PID: 7
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018373] Targeted Sibling 4 PID: 8
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018374] Targeted Sibling 5 PID: 9
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018374] Targeted Sibling 6 PID: 10
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018375] Targeted Sibling 7 PID: 11
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018376] Targeted Sibling 8 PID: 12
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018376] Targeted Sibling 9 PID: 13
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018377] Targeted Sibling 10 PID: 14
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018377] Targeted Sibling 11 PID: 15
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018378] Targeted Sibling 12 PID: 16
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018379] Targeted Sibling 13 PID: 17
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018379] Targeted Sibling 14 PID: 18
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018380] Targeted Sibling 15 PID: 19
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018381] Targeted Sibling 16 PID: 20
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018381] Targeted Sibling 17 PID: 21
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018382] Targeted Sibling 18 PID: 22
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018382] Targeted Sibling 19 PID: 23
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018383] Targeted Sibling 20 PID: 24
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018383] Targeted Sibling 21 PID: 25
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018384] Targeted Sibling 22 PID: 28
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018384] Targeted Sibling 23 PID: 29
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018385] Targeted Sibling 24 PID: 30
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018386] Targeted Sibling 25 PID: 31
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018386] Targeted Sibling 26 PID: 47
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018387] Targeted Sibling 27 PID: 48
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018387] Targeted Sibling 28 PID: 50
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018388] Targeted Sibling 29 PID: 51
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018388] Targeted Sibling 30 PID: 52
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018389] Targeted Sibling 31 PID: 53
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018390] Targeted Sibling 32 PID: 54
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018390] Targeted Sibling 33 PID: 55
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018391] Targeted Sibling 34 PID: 56
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018392] Targeted Sibling 35 PID: 57
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018392] Targeted Sibling 36 PID: 58
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018393] Targeted Sibling 37 PID: 59
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018393] Targeted Sibling 38 PID: 60
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018394] Targeted Sibling 39 PID: 61
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018394] Targeted Sibling 40 PID: 62
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018395] Targeted Sibling 41 PID: 63
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018396] Targeted Sibling 42 PID: 64
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018396] Targeted Sibling 43 PID: 65
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018397] Targeted Sibling 44 PID: 66
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018397] Targeted Sibling 45 PID: 67
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018398] Targeted Sibling 46 PID: 68
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018398] Targeted Sibling 47 PID: 69
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018399] Targeted Sibling 48 PID: 70
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018400] Targeted Sibling 49 PID: 71
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018400] Targeted Sibling 50 PID: 72
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018401] Targeted Sibling 51 PID: 73
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018401] Targeted Sibling 52 PID: 74
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018402] Targeted Sibling 53 PID: 75
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018402] Targeted Sibling 54 PID: 76
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018403] Targeted Sibling 55 PID: 77
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018404] Targeted Sibling 56 PID: 79
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018404] Targeted Sibling 57 PID: 93
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018405] Targeted Sibling 58 PID: 94
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018405] Targeted Sibling 59 PID: 95
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018406] Targeted Sibling 60 PID: 139
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018407] Targeted Sibling 61 PID: 143
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018407] Targeted Sibling 62 PID: 147
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018408] Targeted Sibling 63 PID: 148
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018408] Targeted Sibling 64 PID: 149
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018409] Targeted Sibling 65 PID: 150
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018410] Targeted Sibling 66 PID: 178
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018410] Targeted Sibling 67 PID: 180
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018411] Targeted Sibling 68 PID: 208
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018411] Targeted Sibling 69 PID: 519
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018412] Targeted Sibling 70 PID: 564
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018412] Targeted Sibling 71 PID: 2953
+Feb  4 14:15:16 cs3013 kernel: [ 1057.018413] Targeted Ancestor 1 PID: 2
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499309] Targeted Task PID: 1091
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499312] Targeted Child 1 PID: 1354
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499313] Targeted Child 2 PID: 1365
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499313] Targeted Child 3 PID: 1377
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499314] Targeted Child 4 PID: 1400
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499314] Targeted Child 5 PID: 1419
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499315] Targeted Child 6 PID: 1430
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499315] Targeted Child 7 PID: 1435
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499316] Targeted Child 8 PID: 1438
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499317] Targeted Child 9 PID: 1440
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499317] Targeted Child 10 PID: 1444
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499318] Targeted Child 11 PID: 1451
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499318] Targeted Child 12 PID: 1459
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499319] Targeted Child 13 PID: 1472
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499319] Targeted Child 14 PID: 1489
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499320] Targeted Child 15 PID: 1517
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499321] Targeted Child 16 PID: 1607
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499321] Targeted Child 17 PID: 1609
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499322] Targeted Child 18 PID: 1620
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499322] Targeted Child 19 PID: 1626
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499323] Targeted Child 20 PID: 1662
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499324] Targeted Child 21 PID: 1668
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499324] Targeted Child 22 PID: 1669
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499325] Targeted Child 23 PID: 1670
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499326] Targeted Child 24 PID: 1671
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499326] Targeted Child 25 PID: 1678
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499327] Targeted Child 26 PID: 1679
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499327] Targeted Child 27 PID: 1680
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499328] Targeted Child 28 PID: 1686
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499328] Targeted Child 29 PID: 1705
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499329] Targeted Child 30 PID: 1736
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499330] Targeted Child 31 PID: 1718
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499330] Targeted Child 32 PID: 1731
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499331] Targeted Child 33 PID: 1785
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499331] Targeted Child 34 PID: 1868
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499332] Targeted Child 35 PID: 1917
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499333] Targeted Child 36 PID: 1906
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499333] Targeted Child 37 PID: 1928
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499334] Targeted Child 38 PID: 1938
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499334] Targeted Child 39 PID: 1949
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499335] Targeted Child 40 PID: 1980
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499335] Targeted Child 41 PID: 2034
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499336] Targeted Child 42 PID: 2060
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499337] Targeted Child 43 PID: 2079
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499337] Targeted Child 44 PID: 2087
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499338] Targeted Child 45 PID: 2100
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499338] Targeted Child 46 PID: 2112
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499339] Targeted Child 47 PID: 2131
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499340] Targeted Ancestor 1 PID: 1051
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499340] Targeted Ancestor 2 PID: 885
+Feb  4 14:16:09 cs3013 kernel: [ 1109.499341] Targeted Ancestor 3 PID: 1
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866320] Targeted Task PID: 885
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866323] Targeted Child 1 PID: 912
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866324] Targeted Child 2 PID: 1051
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866325] Targeted Sibling 1 PID: 215
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866325] Targeted Sibling 2 PID: 247
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866326] Targeted Sibling 3 PID: 642
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866327] Targeted Sibling 4 PID: 644
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866327] Targeted Sibling 5 PID: 645
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866328] Targeted Sibling 6 PID: 653
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866329] Targeted Sibling 7 PID: 697
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866329] Targeted Sibling 8 PID: 699
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866330] Targeted Sibling 9 PID: 700
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866330] Targeted Sibling 10 PID: 735
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866331] Targeted Sibling 11 PID: 740
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866332] Targeted Sibling 12 PID: 745
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866332] Targeted Sibling 13 PID: 758
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866333] Targeted Sibling 14 PID: 772
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866334] Targeted Sibling 15 PID: 867
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866334] Targeted Sibling 16 PID: 923
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866335] Targeted Sibling 17 PID: 1072
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866336] Targeted Sibling 18 PID: 1139
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866336] Targeted Sibling 19 PID: 1149
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866337] Targeted Sibling 20 PID: 1161
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866337] Targeted Sibling 21 PID: 1168
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866338] Targeted Sibling 22 PID: 1587
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866338] Targeted Sibling 23 PID: 1641
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866339] Targeted Sibling 24 PID: 1719
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866340] Targeted Sibling 25 PID: 1751
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866340] Targeted Sibling 26 PID: 1877
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866341] Targeted Sibling 27 PID: 1922
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866341] Targeted Sibling 28 PID: 2801
+Feb  4 14:16:36 cs3013 kernel: [ 1136.866342] Targeted Ancestor 1 PID: 1
+Feb  4 14:17:01 cs3013 CRON[3752]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb  4 14:18:10 cs3013 org.gnome.zeitgeist.SimpleIndexer[1365]: ** (zeitgeist-fts:2112): WARNING **: Unable to get info on application://nautilus-autostart.desktop
